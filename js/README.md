@@ -56,3 +56,4 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 ---
 
 ¡Gracias por tu interés en contribuir a este proyecto!
+
